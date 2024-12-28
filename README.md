@@ -28,9 +28,9 @@ You may need these packages to run the code.
 - Matplotlib
 ```
 
-We provide a click-to-run code framework to show CRIR model. You can run 'main.py' directly to see how the programme is running if you have successfully installed the packages. You can add running parameters following the parameters which exist in the 'main.py'.
+We provide a click-to-run code framework to show CRIR model. You can run 'main.py' directly to see how the program is running if you have successfully installed the packages. You can add running parameters following the parameters which exist in the 'main.py'.
 
-We also provide a visualization programme for experimental results. You can run 'plot.py' after having got results for experiments. You may pay attention to the variables which refer to data directory or evaluation metrics.
+We also provide a visualization program for experimental results. You can run 'plot.py' after having got results for experiments. You may pay attention to the variables which refer to data directory or evaluation metrics.
 
 Here is one example for visualization of the experimental results.
 
