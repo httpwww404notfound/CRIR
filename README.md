@@ -1,4 +1,4 @@
-# Contrastive Representation for Interactive Recommendation
+# Contrastive Representation for Interactive Recommendation (CRIR)
 
 Paper : [Contrastive Representation for Interactive Recommendation](https://arxiv.org/abs/2412.18396), accepted by AAAI-2025.
 
