@@ -1,8 +1,8 @@
-## Contrastive Representation for Interactive Recommendation
+# Contrastive Representation for Interactive Recommendation
 
 Paper : [Contrastive Representation for Interactive Recommendation](https://arxiv.org/abs/2412.18396), accepted by AAAI-2025.
 
-**Authors: Jingyu Li** , Zhiyong Feng*, Dongxiao He, Hongqi Chen, Qinghang Gao, Guoli Wu
+**Authors: [Jingyu Li](https://httpwww404notfound.github.io/JingyuLi/)** , Zhiyong Feng*, Dongxiao He, Hongqi Chen, Qinghang Gao, Guoli Wu
 
 ![img](figs/framework.png "framework")
 
